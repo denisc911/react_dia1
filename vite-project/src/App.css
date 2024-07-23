@@ -1,5 +1,5 @@
 .header {
-  background-color: #e0e0e0;
+  background-color: #20a2ee;
   color: #404040;
   padding: 25px;
   text-align: center;
@@ -13,14 +13,14 @@
 
 .home {
   padding: 25px;
-  background-color: #fafafa;
+  background-color: #3a3737;
 }
 
 .about-me,
 .technologies {
   margin-bottom: 25px;
   padding: 10px;
-  border: 1px solid #ddd;
+  border: 1px solid #0fd5f8;
   border-radius: 5px;
 }
 
@@ -28,7 +28,7 @@
 .technologies h2 {
   margin-top: 0;
   margin-bottom: 15px;
-  color: #333;
+  color: #921212;
 }
 
 .lista {
@@ -36,7 +36,7 @@
   display: flex;
   justify-content: space-around;
   list-style: none;
-  background-color: #f5f5f5;
+  background-color: #744242;
   border-radius: 5px;
 }
 
